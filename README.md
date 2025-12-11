@@ -11,8 +11,8 @@
 
 <h3 align="center">Languages</h3>
 <p align="center" style="flex">
-<img src="https://www.yanderecore.cat/file/python.png" height="30px"/>
-<img src="https://www.yanderecore.cat/file/javascript.png" height="30px"/>
-<img src="https://www.yanderecore.cat/file/html.png" height="30px"/>
-<img src="https://www.yanderecore.cat/file/css.png" height="30px"/>
+<img src="https://www.yanderecore.cat/file/python.png" height="50px"/>
+<img src="https://www.yanderecore.cat/file/javascript.png" height="50px"/>
+<img src="https://www.yanderecore.cat/file/html.png" height="50px"/>
+<img src="https://www.yanderecore.cat/file/css.png" height="50px"/>
 </p>
