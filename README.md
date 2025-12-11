@@ -3,11 +3,13 @@
 # Asya/Aurora
 
 </div>
-  
-### I'm a 17-year-old programmer
+
+<div align="center">
+### I'm a 17yo programmer (Front End)
 
 - Fun fact: I started programming back in June 2024, so I may not be the best
-- Projects: All projects are private
+- Projects: All repo are private
+</div>
 
 <h3 align="center">Languages</h3>
 <p align="center" style="flex">
