@@ -1,5 +1,5 @@
 <div align="center>
-#  Hello, I'm Asya/Aurora
+# Hello, I'm Asya/Aurora
 </div>
   
 ### I'm a 17-year-old programmer
