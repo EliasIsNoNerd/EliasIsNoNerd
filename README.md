@@ -1,5 +1,7 @@
+<div align="center>
 #  Hello, I'm Asya/Aurora
-
+</div>
+  
 ### I'm a 17-year-old programmer
 
 - Fun fact: I started programming back in June 2024, so I may not be the best
