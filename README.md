@@ -9,6 +9,8 @@
 ### I'm a 17yo programmer (Front End)
 
 </div>
+
+
 - Fun fact: I started programming back in June 2024, so I may not be the best
 - Projects: All repo are private
 
