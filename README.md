@@ -30,6 +30,7 @@
 
 <div align="center">
   
-- Fun fact: I got the thought of learning to program at a random park in June 2024, so that's how I started.
-- Projects: All repo are private
+- Where I started: It was an afternoon in June 2024 I was at a random park when I got the idea of learning how to code so I decided to look up Python courses on YT since I didn’t know where to start
+  
+- Projects: Developing an infostealer
 
