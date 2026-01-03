@@ -6,7 +6,7 @@
 
 <div align="center">
   
-### I'm a 17yo Front End developer
+### I'm a 17yo front end developer
 
 </div>
 
