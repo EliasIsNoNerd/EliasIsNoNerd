@@ -2,30 +2,11 @@
 <img src="https://cdn.yanderecore.cat/background.gif">
 </div>
 
-<div>
-  
-# Hello, I'm Asya/Elias.
-### I'm a 17yo front end developer
-
-<p style="flex">
-<h3>Here's what I know</h3>
-<img src="https://www.yanderecore.cat/file/python.png" height="40px"/>
-<img src="https://www.yanderecore.cat/file/javascript.png" height="40px"/>
-<img src="https://cdn.yanderecore.cat/html.png" height="40px"/>
-<img src="https://cdn.yanderecore.cat/css.png" height="40px"/>
-<img src="https://www.yanderecore.cat/file/Lua.png" height="40px"/>
-<img src="https://www.yanderecore.cat/file/tailwind.png" height="40px"/>
-<img src="https://www.yanderecore.cat/file/bootstrap.png" height="40px"/>
-<img src="https://www.yanderecore.cat/file/git.png" height="40px">
-</p>
-
-<h2>Random Things</h2>
-<h3>I use Windows 11 and Ubuntu 24.04.3 LTS</h3>
-<h3>I'm good at OSINT (I don't abuse this)</h3>
-<h3>Learning C</h3>
-<h3>Got into programming in 2024 so I may not be good</h3>
-<h3>Backend development scares me</h3>
-<h3>All repo are private</h3>
-</div>
+# 💫 About Me:
+Nice to meet y'all I'm Elias a 17 year old <br>I am self taught programmer and a front end developer<br>(Since 2024) 
 
 
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+[![](https://visitcount.itsvg.in/api?id=EliasIsNoNerd&icon=0&color=0)](https://visitcount.itsvg.in)
